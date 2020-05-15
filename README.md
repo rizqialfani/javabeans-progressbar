@@ -1,16 +1,12 @@
-# Exercise 5 - Java Beans
-Description.
+# Exercise 5 - Java Beans for Counter & Progress Bar
 
 ## Overview
-### Counter Java
+### Counter 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/rizqialfani01/javabeans-progressbar/master/screenshot/' width='750'>
+<img src='https://raw.githubusercontent.com/rizqialfani01/javabeans-progressbar/master/counter.jpg' width='750'>
 </p>
 
-### ajax-exercises
+### Progress Bar
 <p align='center'>
-<img src='https://raw.githubusercontent.com/rizqialfani01/javabeans-progressbar/master/screenshot/' width='750'>
+<img src='https://raw.githubusercontent.com/rizqialfani01/javabeans-progressbar/master/progressbar.jpg' width='750'>
 </p>
-
-## Source
-Thanks to [Site](http://www.url.com) for great tutorial.
