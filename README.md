@@ -3,10 +3,10 @@
 ## Overview
 ### Counter 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/rizqialfani01/javabeans-progressbar/master/counter.jpg' width='400'>
+<img src='https://raw.githubusercontent.com/rizqialfani01/javabeans-progressbar/master/counter.jpg' width='100%'>
 </p>
 
 ### Progress Bar
 <p align='center'>
-<img src='https://raw.githubusercontent.com/rizqialfani01/javabeans-progressbar/master/progressbar.jpg' width='400'>
+<img src='https://raw.githubusercontent.com/rizqialfani01/javabeans-progressbar/master/progressbar.jpg' width='100%'>
 </p>
